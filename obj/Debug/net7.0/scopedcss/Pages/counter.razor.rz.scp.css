@@ -1,0 +1,25 @@
+.first[b-uaho45pk32] {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.three[b-uaho45pk32] {
+    background-color: lightgray;
+    width: 200px;
+    padding-left: 50px;
+}
+
+.three h2[b-uaho45pk32] {
+    margin-top: 50px;
+}
+
+.four[b-uaho45pk32] {
+    width: 700px;
+    padding-top: 50px;
+}
+
+.four p[b-uaho45pk32] {
+    padding-left: 30px;
+}

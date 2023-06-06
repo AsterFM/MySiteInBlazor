@@ -1,0 +1,173 @@
+.photo[b-yyea7k5tez] {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-left: 25px;
+
+}
+
+.first[b-yyea7k5tez] {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.one[b-yyea7k5tez] {
+    width: 200px;
+    height: 360px;
+    background-color: lightgray;
+}
+
+.two[b-yyea7k5tez] {
+    width: 700px;
+}
+
+.three[b-yyea7k5tez] {
+    background-color: lightgray;
+    width: 150px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.three .h2[b-yyea7k5tez] {
+    padding-left: 20px;
+}
+
+.four[b-yyea7k5tez] {
+    width: 700px;
+    padding-top: 50px;
+}
+
+.four p[b-yyea7k5tez] {
+    padding-left: 30px;
+}
+
+.five[b-yyea7k5tez] {
+    background-color: lightgray;
+    width: 150px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.grid[b-yyea7k5tez] {
+    display: grid;
+    width: 700px;
+    padding-left: 30px;
+    padding-top: 50px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.six[b-yyea7k5tez] {
+    background-color: lightgray;
+    width: 150px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.seven[b-yyea7k5tez] {
+    width: 700px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+
+.name[b-yyea7k5tez] {
+    padding-top: 70px;
+    color: lightgray;
+}
+
+.surname[b-yyea7k5tez] {
+    color: orange;
+}
+
+.info[b-yyea7k5tez]{
+    font-size: 15px;
+    padding-left: 50px;
+    color: lightgray;
+}
+
+.name[b-yyea7k5tez], .surname[b-yyea7k5tez] {
+    font-size: 35px;
+    width: 100%;
+    padding-left: 50px;
+    display: inline-block;
+}
+
+.social[b-yyea7k5tez]{
+    display: inline;
+    margin-left: 400px;
+}
+
+.socBut[b-yyea7k5tez] {
+    display: inline-block;
+    margin-right: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+.socialF[b-yyea7k5tez] {
+    background-image: url(Image/faceboock16.png);
+    background-repeat: no-repeat;
+    background-color: lightgray;
+    background-position: right 7px top 6px;
+}
+
+.socialV[b-yyea7k5tez] {
+    background-color: lightgray;
+    background-image: url(Image/vk.png);
+    background-repeat: no-repeat;
+    background-position: right 7px top 6px;
+}
+
+.socialT[b-yyea7k5tez] {
+    background-color: lightgray;
+    background-image: url(Image/tweet.png);
+    background-repeat: no-repeat;
+    background-position: right 7px top 6px;
+}
+
+.line[b-yyea7k5tez] {
+    margin-top: 70px;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    height: 2px;
+    background-color: lightgray;
+}
+
+.loc[b-yyea7k5tez] {
+    margin-top: 20px;
+}
+
+.loc2[b-yyea7k5tez] {
+    margin-top: 15px;
+}
+
+.locLoc[b-yyea7k5tez] {
+    margin-left: 35px;
+}
+
+.locCountry[b-yyea7k5tez] {
+    margin-left: 35px;
+}
+
+.locNumber[b-yyea7k5tez] {
+    margin-left: 125px;
+}
+
+.locWeb[b-yyea7k5tez] {
+    margin-left: 85px;
+}
+
+.locEmail[b-yyea7k5tez] {
+    margin-left: 80px;
+}
+
+.locInf[b-yyea7k5tez] {
+    margin-right: 110px;
+}

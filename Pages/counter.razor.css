@@ -1,0 +1,25 @@
+﻿.first {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.three {
+    background-color: lightgray;
+    width: 200px;
+    padding-left: 50px;
+}
+
+.three h2 {
+    margin-top: 50px;
+}
+
+.four {
+    width: 700px;
+    padding-top: 50px;
+}
+
+.four p {
+    padding-left: 30px;
+}

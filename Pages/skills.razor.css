@@ -1,0 +1,59 @@
+﻿.first {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.six {
+    background-color: lightgray;
+    width: 200px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.seven {
+    width: 700px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+.prog {
+    height: 5px;
+    width: 200px;
+    background-color: lightgrey;
+}
+
+.seven1 .progGrey {
+    position: relative;
+    top: -5px;
+    background-color: orange;
+    height: 5px;
+    width: 150px;
+}
+
+.seven2 .progGrey {
+    position: relative;
+    top: -5px;
+    background-color: orange;
+    height: 5px;
+    width: 130px;
+}
+
+.seven3 .progGrey {
+    position: relative;
+    top: -5px;
+    background-color: orange;
+    height: 5px;
+    width: 180px;
+}
+
+.seven4 .progGrey {
+    position: relative;
+    top: -5px;
+    background-color: orange;
+    height: 5px;
+    width: 190px;
+}

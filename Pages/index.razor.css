@@ -1,0 +1,173 @@
+﻿.photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-left: 25px;
+
+}
+
+.first {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.one {
+    width: 200px;
+    height: 360px;
+    background-color: lightgray;
+}
+
+.two {
+    width: 700px;
+}
+
+.three {
+    background-color: lightgray;
+    width: 150px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.three .h2 {
+    padding-left: 20px;
+}
+
+.four {
+    width: 700px;
+    padding-top: 50px;
+}
+
+.four p {
+    padding-left: 30px;
+}
+
+.five {
+    background-color: lightgray;
+    width: 150px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.grid {
+    display: grid;
+    width: 700px;
+    padding-left: 30px;
+    padding-top: 50px;
+    grid-template-columns: 1fr 1fr;
+}
+
+.six {
+    background-color: lightgray;
+    width: 150px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.seven {
+    width: 700px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+
+
+.name {
+    padding-top: 70px;
+    color: lightgray;
+}
+
+.surname {
+    color: orange;
+}
+
+.info{
+    font-size: 15px;
+    padding-left: 50px;
+    color: lightgray;
+}
+
+.name, .surname {
+    font-size: 35px;
+    width: 100%;
+    padding-left: 50px;
+    display: inline-block;
+}
+
+.social{
+    display: inline;
+    margin-left: 400px;
+}
+
+.socBut {
+    display: inline-block;
+    margin-right: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+.socialF {
+    background-image: url(Image/faceboock16.png);
+    background-repeat: no-repeat;
+    background-color: lightgray;
+    background-position: right 7px top 6px;
+}
+
+.socialV {
+    background-color: lightgray;
+    background-image: url(Image/vk.png);
+    background-repeat: no-repeat;
+    background-position: right 7px top 6px;
+}
+
+.socialT {
+    background-color: lightgray;
+    background-image: url(Image/tweet.png);
+    background-repeat: no-repeat;
+    background-position: right 7px top 6px;
+}
+
+.line {
+    margin-top: 70px;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    height: 2px;
+    background-color: lightgray;
+}
+
+.loc {
+    margin-top: 20px;
+}
+
+.loc2 {
+    margin-top: 15px;
+}
+
+.locLoc {
+    margin-left: 35px;
+}
+
+.locCountry {
+    margin-left: 35px;
+}
+
+.locNumber {
+    margin-left: 125px;
+}
+
+.locWeb {
+    margin-left: 85px;
+}
+
+.locEmail {
+    margin-left: 80px;
+}
+
+.locInf {
+    margin-right: 110px;
+}

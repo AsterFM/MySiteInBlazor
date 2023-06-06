@@ -1,0 +1,21 @@
+.first[b-nm68tfmb5r] {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.five[b-nm68tfmb5r] {
+    background-color: lightgray;
+    width: 200px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.grid[b-nm68tfmb5r] {
+    display: grid;
+    width: 700px;
+    padding-left: 30px;
+    padding-top: 50px;
+    grid-template-columns: 1fr 1fr;
+}
